@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+[Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo
+
 
 ## Installation
 Öncelikle projeyi klonlayın
@@ -20,3 +21,5 @@ code .
 ## Contributing
 Pull requestler kabul edilir. Büyük deeğişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
+## License
+**MIT**
